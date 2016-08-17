@@ -1,0 +1,9 @@
+<ion-view ng-controller="beerCtrl as vm">
+	<ion-content class="has-header">
+		<h2>Nearby Beer</h2>
+		<ion-list>
+		<div class="item" ng-repeat="location in locations">
+			{{location.name}}
+		</div>
+	</ion-content>
+</ion-view>
