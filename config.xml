@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.ionicframework.whatsnear582835" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>whatsNear</name>
+<widget id="com.jimmirra.whatsnear" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>WhatsNear</name>
     <description>
-        An Ionic Framework and Cordova project.
+        Cross platform hybrid mobile application for seeing what's nearby. Using Ionic Framework, Cordova & Google Maps API (ios/android)
     </description>
-    <author email="you@example.com" href="http://example.com.com/">
-      Your Name Here
+    <author email="jim.mirra@gmail.com" href="https://github.com/jimmirra">
+      Jim Mirra
     </author>
     <content src="index.html" />
     <access origin="*" />
